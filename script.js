@@ -46,7 +46,7 @@ function criaResposta(event) {
   }
 }
 function resetaTexto() {
-  answer.innerText = 'Escolha uma cor';
+  answer.innerText = 'Escolha uma cor das opções acima!';
 }
 function resetaResposta() {
   const resposta = document.querySelector('.correto');
