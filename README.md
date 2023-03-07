@@ -2,6 +2,12 @@ Este repositório contém um projeto desenvolvido enquanto pessoa estudante da @
 
 ---
 
+# Deployment
+
+A vizualização da aplicação está disponível no seguinte endereço: https://rafaeldejesusl.github.io/ProjectColorGuess/
+
+---
+
 # Habilidades
 
 - Manipular o DOM.
